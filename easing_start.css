@@ -1,0 +1,12 @@
+.light {
+    position: absolute;
+    top: 5vh;
+    left: 30vw;
+    height: 15vh;
+}
+#car {
+    position: absolute;
+    top: 10vh;
+    left: 2vw;
+    height: 20vh;
+}
