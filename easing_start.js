@@ -11,7 +11,7 @@ let startAnimation = () => {
     let endKeyframes = {"left": "100vw"};
     let options = {
         duration: 3000
-    };
+    };;
 
     car.animate([startKeyframes, endKeyframes], options);
 };
